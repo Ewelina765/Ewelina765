@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">My name is Ewelina and I'm a frontend developer.</p>
+<p align="left">Hello, my name is Ewelina.</p>
 
 ###
 
